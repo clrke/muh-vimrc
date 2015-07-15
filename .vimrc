@@ -7,7 +7,7 @@ nmap dm mP%x`Px
 nmap ii i
 " Overrides original append command
 nmap aa a
-" Inserts -> before highlighted character (PHP specific; use wir to append at end of variable)
+" Inserts -> before highlighted character (PHP specific; use wir to append at end of variable (doesn't always work, ear is recommended))
 nmap ir i->
 " Inserts -> after highlighted character (PHP specific; use ear to append at end of variable)
 nmap ar a->
