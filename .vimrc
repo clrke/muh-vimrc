@@ -25,7 +25,6 @@ nmap id odef ():<CR><Esc>bi
 set autoindent
 set incsearch
 set hlsearch
-set number
 set showcmd
 set cursorline
 nmap Y y$
