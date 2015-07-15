@@ -21,6 +21,10 @@ nmap im opublic function () {<CR>}<Esc>bi
 nmap am oprivate function () {<CR>}<Esc>bi
 " Inserts a method below highlighted line (Python specific)
 nmap id odef ():<CR><Esc>bi
+" Inserts a public method below highlighted line (PHP specific)
+nmap ic ofunction __construct() {<CR>}<Esc>bba$
+" Inserts a constructor below highlighted line (Python specific)
+nmap in odef __init__():<CR>
 
 set autoindent
 set incsearch
@@ -28,4 +32,3 @@ set hlsearch
 set showcmd
 set cursorline
 nmap Y y$
-
