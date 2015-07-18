@@ -37,3 +37,5 @@ set expandtab
 set shiftwidth=4
 set softtabstop=4
 
+source ~/muh-vimrc/diff.vim
+
