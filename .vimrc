@@ -32,3 +32,8 @@ set hlsearch
 set showcmd
 set cursorline
 nmap Y y$
+
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+
