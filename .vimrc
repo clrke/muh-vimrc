@@ -1,4 +1,6 @@
 " Real world problems
+imap jj <Esc>o
+imap jJ <Esc>O
 imap jk <Esc>
 nmap dm mP%x`Px
 
