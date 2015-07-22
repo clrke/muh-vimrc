@@ -4,9 +4,9 @@ nmap dm mP%x`Px
 
 """ INSERT mode overrides
 " Overrides original insert command
-nmap ii :startinsert<CR>
+nmap ii i <BS>
 " Overrides original append command
-nmap aa l:startinsert<CR>
+nmap aa lii
 " Inserts -> before highlighted character (PHP specific; use wir to append at end of variable (doesn't always work, ear is recommended))
 nmap ir i->
 " Inserts -> after highlighted character (PHP specific; use ear to append at end of variable)
