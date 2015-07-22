@@ -36,6 +36,8 @@ nmap Y y$
 set expandtab
 set shiftwidth=4
 set softtabstop=4
+syntax on
+filetype indent plugin on
 
 source ~/muh-vimrc/diff.vim
 
