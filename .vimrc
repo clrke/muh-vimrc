@@ -2,6 +2,7 @@
 imap jj <Esc>o
 imap jJ <Esc>O
 imap jk <Esc>
+imap JK <Esc>
 nmap dm mP%x`Px
 
 """ INSERT mode overrides
