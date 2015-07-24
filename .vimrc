@@ -9,7 +9,7 @@ nmap dm mP%x`Px
 " Overrides original insert command
 nmap ii i <BS>
 " Overrides original append command
-nmap aa lii
+nmap aa a <BS>
 " Inserts -> before highlighted character (PHP specific; use wir to append at end of variable (doesn't always work, ear is recommended))
 nmap ir i->
 " Inserts -> after highlighted character (PHP specific; use ear to append at end of variable)
