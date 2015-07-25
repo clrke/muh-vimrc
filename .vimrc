@@ -20,3 +20,8 @@ filetype indent plugin on
 
 source ~/muh-vimrc/diff.vim
 
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
+
