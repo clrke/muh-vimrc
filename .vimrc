@@ -1,7 +1,11 @@
 " Real world problems
-imap jj <Esc>o
-imap jJ <Esc>O
+imap jj <Esc>A;<CR>
+imap JJ <Esc>A;<CR>
+imap jJ <Esc>A;<CR>
+imap Jj <Esc>A;<CR>
 imap jk <Esc>
+imap Jk <Esc>
+imap jK <Esc>
 imap JK <Esc>
 nmap dm mP%x`Px
 
