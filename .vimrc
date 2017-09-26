@@ -29,3 +29,5 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 
+nmap <C-k> gt
+nmap <C-j> gT
